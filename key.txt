@@ -10,5 +10,36 @@ git config --global user.email "nuttamon21574@gmail.com"
 git config --local user.email "nuttamon21574"
 git confi --list
 
+
+
+git remote -v
+git remote remove origin
+
+
 key
 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
+
+
+
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////
+…or create a new repository on the command line
+echo "# myProfile" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nuttamon21574/myProfile.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/nuttamon21574/myProfile.git
+git branch -M main
+git push -u origin main

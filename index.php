@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -19,7 +19,7 @@
 </head>
 <body>
 <!--/////////////////////////////////////////////////////////////////////////////////-->
-  <!--เริ่ม Menu-->
+  <!--เริ่ม Menu -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Home</a>
