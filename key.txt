@@ -1,0 +1,14 @@
+nxplengg
+
+sarsaiy39211621574
+
+git add -A
+git commit -m "aa"
+git push -u origin masster
+
+git config --global user.email "nuttamon21574@gmail.com"
+git config --local user.email "nuttamon21574"
+git confi --list
+
+key
+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
