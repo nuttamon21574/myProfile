@@ -4,7 +4,7 @@ sarsaiy39211621574
 
 git add -A
 git commit -m "aa"
-git push -u origin masster
+git push -u origin main
 
 git config --global user.email "nuttamon21574@gmail.com"
 git config --local user.email "nuttamon21574"
