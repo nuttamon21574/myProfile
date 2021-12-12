@@ -17,7 +17,7 @@ git remote remove origin
 
 
 key
-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
+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
 
 
 
@@ -30,7 +30,7 @@ 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
 
 
 //////////////////////////////////////////////////////////
-…or create a new repository on the command line
+ï¿½or create a new repository on the command line
 echo "# myProfile" >> README.md
 git init
 git add README.md
@@ -39,7 +39,7 @@ git branch -M main
 git remote add origin https://github.com/nuttamon21574/myProfile.git
 git push -u origin main
 
-…or push an existing repository from the command line
+ï¿½or push an existing repository from the command line
 git remote add origin https://github.com/nuttamon21574/myProfile.git
 git branch -M main
 git push -u origin main
